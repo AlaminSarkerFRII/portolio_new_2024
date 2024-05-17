@@ -1,6 +1,6 @@
 export const NAME = 'Alamin Sarker';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = ` Software Engineer | Full Stack Developer | Open Source Contributor `;
 
 export const DETAILS = {
   Residence: 'Bangadesh',
