@@ -65,7 +65,7 @@ export const CONTACTS = {
 };
 export const SOCIAL_LINKS = {
   GITHUB: 'https://github.com/AlaminSarkerFRII',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  LINKEDIN: 'https://www.linkedin.com/in/alamin-sarker-b2676522a/',
+  TWITTER: 'https://x.com/Alamin4Sarker',
+  // FACEBOOK: 'https://www.facebook.com/iosamajavaid',
 };

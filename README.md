@@ -14,7 +14,7 @@
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using Nextjs, TailwindCSS only.
 
-<a href="https://osamajavaid.vercel.app/"><strong>➥ Live Demo</strong></a>
+<a href="https://alamin-sarker-portfolio-2024.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -22,7 +22,7 @@ This website is fully responsive personal portfolio, <br />Responsive for all de
 
 ### Demo Screeshots
 
-![Osama Portfolio Desktop Demo](./public/readme-images/portfolio.png "Desktop Demo")
+![Alamin Sarker Portfolio Desktop Demo](./public/readme-images/portfolio_2024.png "Desktop Demo")
 
 ### Prerequisites
 
