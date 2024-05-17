@@ -158,30 +158,7 @@ const portfolio = [
             },
         ]
     },
-    // {
-    //     id: 0,
-    //     projectName: "Tojjar",
-    //     url: "/domain-expired",
-    //     image: "projects/tojjar.png",
-    //     projectDetail: "Tojjar is ecommerce website,  where you can open your own store and sell products of different brands!",
-    //     technologiesUsed: [
-    //         {
-    //             tech: "Nextjs with SSR"
-    //         },
-    //         {
-    //             tech: "Laravel"
-    //         },
-    //         {
-    //             tech: "REST API's"
-    //         },
-    //         {
-    //             tech: "Ant Design"
-    //         },
-    //         {
-    //             tech: "TailwindCSS"
-    //         },
-    //     ]
-    // },
+
     {
         id: 1,
         projectName: "Otawix",
@@ -230,27 +207,7 @@ const portfolio = [
             },
         ]
     },
-    // {
-    //     id: 2,
-    //     projectName: "Culyte",
-    //     url: "https://culyte.com",
-    //     image: "projects/culyte.png",
-    //     projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
-    //     technologiesUsed: [
-    //         {
-    //             tech: "ReactJS"
-    //         },
-    //         {
-    //             tech: "NodeJS"
-    //         },
-    //         {
-    //             tech: "Ant Design"
-    //         },
-    //         {
-    //             tech: "TailwindCSS"
-    //         },
-    //     ]
-    // },
+
 ]
 export default function handler(req, res) {
     res.status(200).json(portfolio)
