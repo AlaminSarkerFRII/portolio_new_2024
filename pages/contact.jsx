@@ -51,7 +51,7 @@ const Contact = () => {
                     <a className='hover:scale-125 ease-in-out duration-700' href="" target='_blank' rel="noreferrer"><HiMail /></a>
                     <a className='hover:scale-125 ease-in-out duration-700' href="https://github.com/AlaminSarkerFRII" target='_blank' rel="noreferrer"><FaGithub /></a>
                     <a className='hover:scale-125 ease-in-out duration-700' href="https://www.linkedin.com/in/alamin-sarker-b2676522a/" target='_blank' rel="noreferrer"><FaLinkedin /></a>
-                    <a className='hover:scale-125 ease-in-out duration-700' href="https://x.com/iosamajavaid" target='_blank' rel="noreferrer"><FaTwitter /></a>
+                    <a className='hover:scale-125 ease-in-out duration-700' href="https://x.com/Alamin4Sarker/" target='_blank' rel="noreferrer"><FaTwitter /></a>
                     <a className='hover:scale-125 ease-in-out duration-700 hidden sm:block' href="https://leetcode.com/u/Alamin_Sarker/" target='_blank' rel="noreferrer"><SiLeetcode /></a>
                     {/* <a className='hover:scale-125 ease-in-out duration-700 text-2xl sm:text-4xl mt-1' href="#" target='_blank' rel="noreferrer"><SiUpwork /></a> */}
                 </div>
