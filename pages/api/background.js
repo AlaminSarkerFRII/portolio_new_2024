@@ -3,24 +3,24 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
-                year: '2018-2022'
+                title: 'Bangladesh University',
+                degree: 'BSc, Bachelor of Science',
+                detail: "Bachelor's Degree in Computer Science and Engineering from Bangladesh University.",
+                year: '2022-2024'
             },
             {
                 id: 1,
-                title: 'Peshawar Model Degree College',
-                degree: 'HSSC, Pre Engineering',
-                detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
-                year: '2015-2017'
+                title: 'Feni Govt. Polytechnic Institute',
+                degree: 'Diploma in Engineering',
+                detail: "Completed Diploma Engineering in Computer Technology from Feni Govt. Polytechnic Institute.",
+                year: '2013-2017'
             },
             {
                 id: 2,
-                title: 'Falcon Academy',
+                title: 'Dilalpur High School',
                 degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
-                year: '2013-2015'
+                detail: "Completed SSC part 1 and part 2 in Science subjects from Dilalpur High School, Badargonj, Rangpur",
+                year: '2008-2012'
             },
         ]
     },
@@ -28,30 +28,30 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'JMM Technologies',
-                role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'Technometrics Limited',
+                role: 'Software Engineer',
+                url: 'https://technometrics.net/',
+                desc: 'As a Software Engineer, I use Python, Django, React, Next & JavaScript to build user interfaces for web applications.',
+                year: '12/2022 - Present',
+                location: 'Banani, Dhaka, Bangladesh'
             },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
-                url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'TOP IT LDT.',
+                role: 'Full Stack Developer',
+                url: 'https://topitltd.com/',
+                desc: 'As an Full Stack Developer, I used here Node, React & JavaScript to build interactive websites.',
+                year: '05/2022 - 11/2022',
+                location: 'Dhaka, Bangladesh',
             },
             {
                 id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-                year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
+                title: 'Faizur Rahman Ideal Institute',
+                role: 'Executive In IT Department',
+                url: 'https://frii.com/',
+                desc: "I work there as, Executive in IT Department FRII.",
+                year: '01/2020 - 04/2022',
+                location: 'Dhaka, Bangladesh'
             },
 
         ]
