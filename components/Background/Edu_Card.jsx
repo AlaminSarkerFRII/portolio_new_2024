@@ -18,6 +18,15 @@ const Edu_Card = ({ data }) => {
                 <div className="text-LightGray text-sm font-normal mt-4 ">
                     {data.detail}
                 </div>
+                <div className="text-LightGray text-sm font-normal mt-4 ">
+                    <h3 className='font-bold text-sm'>Achievements : </h3>
+                    {data?.Achievements}
+                </div>
+
+                <div className="text-LightGray text-sm font-normal mt-4">
+                    <h3 className='font-bold text-sm'>Location : </h3>
+                    {data?.location}
+                </div>
             </div>
         </CardLayout>
     )
